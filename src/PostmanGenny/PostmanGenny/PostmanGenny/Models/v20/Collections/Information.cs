@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace PostmanGenny.Models.v20
+namespace PostmanGenny.Models.v20.Collections
 {
     public class Information
     {
